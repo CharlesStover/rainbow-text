@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "@charlesstover/rainbow-text": "^1.0.2",
-    "@material-ui/core": "^3.1.1",
+    "@material-ui/core": "^4.2.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "3.0.1"
