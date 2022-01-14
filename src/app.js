@@ -17,7 +17,7 @@ class App extends React.PureComponent {
         </MuiThemeProvider>
         <footer>
           &copy;{' '}
-          <a href="https://charlesstover/" rel="noopener noreferrer" title="CharlesStover.com">Charles Stover</a>
+          <a href="https://charlesstover.com/" rel="noopener noreferrer" title="CharlesStover.com">Charles Stover</a>
         </footer>
       </div>
     );
